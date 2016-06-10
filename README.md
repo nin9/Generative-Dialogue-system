@@ -1,2 +1,2 @@
-# Generative-Dialouge-system
-Building Generative Dialouge System Using Deep Nueral Nets
+# Generative-Dialogue-system
+Building Generative Dialogue System Using Deep Neural Nets
