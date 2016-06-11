@@ -1,0 +1,6 @@
+# HDF5 weight files
+*.h5
+*.hdf5
+
+# Saved figures
+*.png
