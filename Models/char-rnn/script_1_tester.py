@@ -27,7 +27,7 @@ model.add(Dropout(0.20))
 model.add(LSTM(256, return_sequences=False))
 model.add(Dropout(0.20))
 
-model.add(Dense( len(chars)))
+model.add(Dense(len(chars)))
 model.add(Activation('softmax'))
 
 model.compile(loss='categorical_crossentropy', optimizer='adam')
