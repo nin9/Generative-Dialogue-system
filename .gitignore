@@ -4,3 +4,7 @@
 
 # Saved figures
 *.png
+
+# Word2Vec
+*.bin
+*.gz
